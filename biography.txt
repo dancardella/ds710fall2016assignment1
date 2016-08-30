@@ -1,8 +1,17 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+
+1. Dan Cardella
+
+2. First, because it has direct applicability to my business of Asset (Money) Mngt
+Secondly, because I look forward to having the skill-set necessary to investigate all of the Big Data that’s becoming available and 
+Lastly, because I enjoy the aspects of being a master, computer/data craftsman !
+
+3. My OOP experience relates primarily to Ruby and Rails (attended a 12 week boot camp training in 2012…CodeAcademy, Chicago) . I’ve recently begun coding in Python and R in preparation for this program. I probably have ~1500 total hours of MOOC, classroom training, and practice time. When I was younger, I used to code in BASIC (Apple IIE and yes, I just dated myself !)
+
+4. I had statistics as part of my undergraduate curriculum and employed a bit of basic stats in my job as a Reservoir Engineer.
+
+5.  I use Python and R tools to investigate finance / stock correlations with a bit of sample code loaded onto my GIT account.  
+
+6.  I’ve chosen these languages as my principal tools of Data Science investigation and intend to develop as solid a foundation in them as possible. 
+
+7. Thank you for helping me get up to data science coding speed !
